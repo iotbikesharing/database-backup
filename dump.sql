@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'dienbui11@gmail.com','$2a$04$LoeKgBz13FxnJSGEKSZnKOYBKGUR.gTf0ssOPbV/6MajELg28F4xe','user 1','2017-07-16 10:53:22','2017-07-16 10:53:22','78 177 237 43'),(2,'dienbui1fasd1@gmail.com','$2a$10$/hodIxMTLLddZxE5goG1iO03yu0IEWsyfjj0nBSZz3B.xTBbbxTFO','user 2','2017-07-16 11:04:12','2017-07-16 11:04:12','21 23 111 176'),(4,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$07$y8RI3/gGT2/vtA01RbUimOM5RS80ViqesdWfKNGSSEUpEA6vN4LDG','user 3','2017-07-16 11:56:09','2017-07-16 11:56:09','4 70 55 194 168 60 128'),(5,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$04$NChudFRel28Qc34GK.aj3eS71jLPTnrwAWXuU9s8hyb9zGeO179xO','dienbufasifasdf','2017-07-16 11:58:41','2017-07-16 11:58:41',NULL),(6,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$04$wEdTPf0/JnJm5whBvwY0fe5kT1ZxA0ie.M9UhPqGQFJWt8iKp1f4m','dienbufadsasifasdf','2017-07-16 11:58:59','2017-07-16 11:58:59',NULL),(7,'dienbui13123fdsfdsfsadfsad11@gmafdsfsadil.com','$2a$09$VRbI5yAy1biuI5QOhD/6DOl7rRfRZkGjeQhAP/FVP5D6wrMY4Qtym','dienbufadsasifsdfasfasdf','2017-07-16 11:59:17','2017-07-16 11:59:17',NULL),(8,'dienbui131ddd2311@gmail.com','$2a$04$Z1ud/WNFVIeoew5YQnDrWOyD0/C/q/59M41z4Ldp97YBeVNkzg2By','dienbddui','2017-07-16 16:06:13','2017-07-16 16:06:13',NULL);
+INSERT INTO `users` VALUES (1,'dienbui11@gmail.com','$2a$04$LoeKgBz13FxnJSGEKSZnKOYBKGUR.gTf0ssOPbV/6MajELg28F4xe','user 1','2017-07-16 10:53:22','2017-07-16 10:53:22','78 177 237 43'),(2,'dienbui1fasd1@gmail.com','$2a$10$/hodIxMTLLddZxE5goG1iO03yu0IEWsyfjj0nBSZz3B.xTBbbxTFO','user 2','2017-07-16 11:04:12','2017-07-16 11:04:12','21 23 111 176'),(4,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$07$y8RI3/gGT2/vtA01RbUimOM5RS80ViqesdWfKNGSSEUpEA6vN4LDG','user 3','2017-07-16 11:56:09','2017-07-16 11:56:09','04 70 55 194 168 60 128'),(5,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$04$NChudFRel28Qc34GK.aj3eS71jLPTnrwAWXuU9s8hyb9zGeO179xO','dienbufasifasdf','2017-07-16 11:58:41','2017-07-16 11:58:41',NULL),(6,'dienbui13123fsadfsad11@gmafdsfsadil.com','$2a$04$wEdTPf0/JnJm5whBvwY0fe5kT1ZxA0ie.M9UhPqGQFJWt8iKp1f4m','dienbufadsasifasdf','2017-07-16 11:58:59','2017-07-16 11:58:59',NULL),(7,'dienbui13123fdsfdsfsadfsad11@gmafdsfsadil.com','$2a$09$VRbI5yAy1biuI5QOhD/6DOl7rRfRZkGjeQhAP/FVP5D6wrMY4Qtym','dienbufadsasifsdfasfasdf','2017-07-16 11:59:17','2017-07-16 11:59:17',NULL),(8,'dienbui131ddd2311@gmail.com','$2a$04$Z1ud/WNFVIeoew5YQnDrWOyD0/C/q/59M41z4Ldp97YBeVNkzg2By','dienbddui','2017-07-16 16:06:13','2017-07-16 16:06:13',NULL);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-09-04 15:15:27
+-- Dump completed on 2017-09-04 15:23:23
